@@ -15,4 +15,4 @@ It uses methods like GET and POST, handles URLs, and relies on status codes for 
 
 5)**404 -Not Found**- This is the most frequent error code. It means that the URL is not recognized or the resource at the location does not exist.
 
-5) **500 -Internal Server Error** -The server has encountered a situation it doesn't know how to handle.
+6) **500 -Internal Server Error** -The server has encountered a situation it doesn't know how to handle.
